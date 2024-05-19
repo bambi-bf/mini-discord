@@ -1,0 +1,21 @@
+{
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "discord.js": "^14.15.2",
+    "dns": "^0.2.2",
+    "dotenv": "^16.3.1",
+    "express.js": "^1.0.0",
+    "https": "^1.0.0",
+    "mongoose": "^8.3.5",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5",
+    "undici": "^5.27.2",
+    "ws": "^8.17.0"
+  }
+}
